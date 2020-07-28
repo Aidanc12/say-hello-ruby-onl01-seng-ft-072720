@@ -1,2 +1,2 @@
-say_hello("aidan")
+puts 
 end
