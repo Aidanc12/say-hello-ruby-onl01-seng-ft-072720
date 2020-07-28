@@ -1,1 +1,1 @@
-say_hello("aidan")
+puts say_hello("aidan")
